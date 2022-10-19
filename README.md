@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 <!--
 **Lee2Eunji/Lee2Eunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
