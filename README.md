@@ -1,5 +1,6 @@
 <div align="center">
 Hi, I'm Eunji 👋 <br>
+I'm currently studying languages <br>
 你好，我叫李恩智。<br>
 现在正在学习语言！
 
