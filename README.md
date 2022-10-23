@@ -1,5 +1,6 @@
 <div align="center">
-### 🎓 Introduce / 介绍
+  
+### 🎓 Introduce / 介绍<br>
 Hi, I'm Eunji! I'm currently studying languages.<br>
 你好，我叫李恩智。现在正在学习语言！
 
